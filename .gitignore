@@ -1,1 +1,3 @@
 electric/kokoromi-backups/*
+*.DS_Store
+*.log
