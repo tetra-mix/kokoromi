@@ -1,4 +1,4 @@
-26778207048253590
+26781783760875979
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -39829,6 +39829,13 @@ Surface mounted pin header SMD 2x40 2.54mm double row
 0
 80
 80
+Connector_PinHeader_2.54mm
+名称未設定
+
+
+0
+12
+6
 Connector_PinSocket_1.00mm
 PinSocket_1x02_P1.00mm_Vertical
 Through hole straight socket strip, 1x02, 1.00mm pitch, single row (https://gct.co/files/drawings/bc065.pdf), script generated
@@ -106392,3 +106399,10 @@ Varistor VF
 0
 2
 2
+kokoromi
+Pad_2x07_P2.54mm_Back
+2x7 bare SMD pads, 2.54mm pitch, no holes. Odd pins top row, even pins bottom row; columns 1-3 = AVR ISP 6-pin order. Place on the BOTTOM side (flip). Not assembled.
+pad test point connector 2.54mm isp
+0
+14
+14
