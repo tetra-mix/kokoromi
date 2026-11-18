@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kokoromi")(type "KiCad")(uri "${KIPRJMOD}/kokoromi.pretty")(options "")(descr "kokoromi project footprints"))
+)
